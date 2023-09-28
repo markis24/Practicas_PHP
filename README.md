@@ -1,8 +1,13 @@
 # Practicas_PHP
 
-Imagen del resultado final de la practica
+## Exercici llistat de cursos en PHP
+
+Captura de pantalla del resultat final de la practica
 
 
 
-Enlace : https://www.php.net/manual/es/index.php
+
+
+
+Enllaç: https://www.php.net/manual/es/index.php
 
